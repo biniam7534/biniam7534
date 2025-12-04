@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi There, I'm <strong>Biniam</strong></h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=50&lines=A+Passionate+Computer+Science+Student;Full-Stack+Developer;AI+Enthusiast;Problem+Solver;Always+Learning+🚀" alt="Dynamic Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=50&lines=I+Passionate+Computer+Science+Student;Full-Stack+Developer;AI+Enthusiast;Problem+Solver;Always+Learning+🚀" alt="Dynamic Typing SVG" />
 </h3>
 
 <h4 align="center">🌐Connect With Me</h4>
