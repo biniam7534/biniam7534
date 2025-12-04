@@ -43,21 +43,28 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bina10-coder&show_icons=true&locale=en" alt="bina10-coder" /></p>
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biniam123&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biniam123&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biniam123&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">🌟 Learning never stops.</p>
+
+<p align="center" style="font-size: 0.9rem; color: #a9b1d6; font-style: italic; margin-top: 20px;">
+  <span style="color: #7aa2f7;">🚀</span> Learning never stops. 
+  <span style="color: #9ece6a;">🌟</span> Growing every day.
+  <span style="color: #ff9e64;">💻</span> Coding with passion.
+</p>
+
+
+
 
 
 
