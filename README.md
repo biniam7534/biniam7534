@@ -46,15 +46,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biniam123&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=biniam7534&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biniam123&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=biniam7534&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biniam123&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=biniam7534&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center" style="font-size: 0.9rem; color: #a9b1d6; font-style: italic; margin-top: 20px;">
@@ -62,6 +62,10 @@
   <span style="color: #9ece6a;">🌟</span> Growing every day.
   <span style="color: #ff9e64;">💻</span> Coding with passion.
 </p>
+
+
+
+ 
 
 
 
