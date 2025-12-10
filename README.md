@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=50&lines=I+Passionate+Computer+Science+Student;Full-Stack+Developer;AI+Enthusiast;Problem+Solver;Always+Learning+🚀" alt="Dynamic Typing SVG" />
 </h3>
 
-<h4 align="center">🌐Connect With Me</h4>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge)](https://github.com/biniam7534/newfoder1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/biniam-abu-a7a4b5395)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biniambinuu75@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biniam7534)
-
 </div>
 
 ---
@@ -108,6 +101,19 @@
 </p>
 
 </div>
+<div align = "left">🌐 <strong>Connect With Me</strong></div>
+
+<p align="left">
+  <a href="https://linkedin.com/in/biniam-abu-a7a4b5395">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:biniambinuu75@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/biniam7534">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 
 ## 📊 GitHub Stats
