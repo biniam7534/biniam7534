@@ -122,21 +122,18 @@
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biniam7534&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=biniam7534&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=biniam7534&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=biniam7534&show_icons=true&theme=tokyonight&hide_border=true" 
     width="420"
-    height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=biniam7534&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=biniam7534&layout=compact&theme=tokyonight&hide_border=true" 
     width="420"
-    height="180"
   />
 </p>
 
