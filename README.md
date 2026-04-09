@@ -34,7 +34,7 @@ igma" width="40" height="40"/>
   </a>
 
   ---
-## 🚀 Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
 
