@@ -32,6 +32,8 @@
 </div>
 igma" width="40" height="40"/>
   </a>
+
+  ---
 ## 🚀 Languages & Tools
 
 <p align="center">
@@ -62,7 +64,7 @@ igma" width="40" height="40"/>
 
 </p>
 
-
+---
 
 
 
