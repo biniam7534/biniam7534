@@ -30,8 +30,7 @@
     Currently focused on building practical projects that solve real problems.
   </div>
 </div>
-igma" width="40" height="40"/>
-  </a>
+  
 
   ---
 ## 🛠️ Languages & Tools
